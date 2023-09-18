@@ -12,7 +12,7 @@ def check_website(url):
         print(f"{url} is down!")
 
 if __name__ == "__main__":
-    website_url = "https://scripting.geekybloxyt.repl.co/"
+    website_url = "https://scripter.geekybloxyt.repl.co/"
     interval = 2
     run_time = 900  # 15 minutes in seconds
 
